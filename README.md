@@ -1,10 +1,11 @@
 ![Banner](https://media.licdn.com/dms/image/D4E16AQFTS3FCDcfDJw/profile-displaybackgroundimage-shrink_350_1400/0/1716065142133?e=1723075200&v=beta&t=YOIkVRXR8g2PuQFHUlLa8Gfpa3-Heljtvq2QtlSh3LM)
 
-<h1 align="center">Hi 👋, I'm Hillary Gilbert</h1>
+<h1 align="center">Hi 👋 </h1>
+<!--<h1 align="center">Hi 👋, I'm Hillary Gilbert</h1> -->
 <h3 align="center">I'm a Full Stack Web Developer who loves solving problems and bringing ideas to fruition by developing solutions from start to finish. </h3>
 
 # 💫 About Me:
-🔭 I’m currently working on a ticketing app / issue tracker<br>🌱 I’m currently learning Next.JS<br>⚡ Fun fact: I'm a voracious reader
+🔭 I’m currently working on a ticketing app / issue tracker<br>🌱 I’m honing my skills in Next.JS<br>⚡ Fun fact: I'm a voracious reader
 
 
 # 💻 Tech Stack:
