@@ -1,4 +1,4 @@
-![Banner](https://repository-images.githubusercontent.com/809962542/c7efe818-cfed-47b3-a5a5-9950c5602ca2)
+![Banner](https://media.licdn.com/dms/image/D4E16AQFTS3FCDcfDJw/profile-displaybackgroundimage-shrink_350_1400/0/1716065142133?e=1723075200&v=beta&t=YOIkVRXR8g2PuQFHUlLa8Gfpa3-Heljtvq2QtlSh3LM)
 
 <h1 align="center">Hi 👋, I'm Hillary Gilbert</h1>
 <h3 align="center">I'm a Full Stack Web Developer who loves solving problems and bringing ideas to fruition by developing solutions from start to finish. </h3>
